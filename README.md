@@ -15,7 +15,7 @@ Dans ce dépôt, vous trouverez :
 -    le Notebook Jupyter pour l'étude des données, l'entraînement et la configuration du modèle de classification et modèle retenue.
 -    la note technique qui explique en détails la construction et les résultats du modèle.
 -    la configuration sur web déployer sur heroku.com contient la partie dashbaord codée avec Streamlit.
--    Cette version n'utilise que Streamlit qui a l'avantage d'être très simple à coder, et qui contient Pycharm, un serveur web de Flask.
+
 
 ## Modèle de classification
 Le modèle retenu pour cet exercice est le modèle Régression logistic 
